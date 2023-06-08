@@ -1,4 +1,4 @@
-[![MasterHead]https://www.mtu.edu/cs/undergraduate/software/what/images/software-engineering-banner2400.jpg
+[![MasterHead](https://www.mtu.edu/cs/undergraduate/software/what/images/software-engineering-banner2400.jpg)
 <h1 align="center">Hi 👋, I'm Labanya Saha</h1>
 <h3 align="center">CSE STUDENT</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
