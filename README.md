@@ -5,6 +5,7 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
 <h1 align="left">LOVE TO PROGRAMMING.TRY HARD</h1>
 <h4 align="left">Start learning C,C++,PYTHON,JAVA,ML,WEB,DS,ALGORITHM</h4>
+<h4 align="left">Believe yourself..Doing hard work.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=labanya23&label=Profile%20views&color=0e75b6&style=flat" alt="labanya23" /> </p>
 
