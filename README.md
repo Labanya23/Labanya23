@@ -17,6 +17,7 @@
 - https://lightoj.com/user/21201059
 - https://toph.co/u/user.5203
 - https://www.beecrowd.com.br/judge/en/profile/614100
+- https://www.linkedin.com/in/labanya-saha-60642127a/
 
 
 <h3 align="left">Connect with me:</h3>
