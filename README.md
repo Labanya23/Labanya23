@@ -18,6 +18,7 @@
 - https://toph.co/u/user.5203
 - https://www.beecrowd.com.br/judge/en/profile/614100
 - https://www.linkedin.com/in/labanya-saha-60642127a/
+- https://www.stopstalk.com/user/profile/labanya25
 
 
 <h3 align="left">Connect with me:</h3>
