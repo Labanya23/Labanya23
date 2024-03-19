@@ -12,7 +12,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=labanya23" alt="labanya23" /></a> </p>
 
 - 📫 How to reach me **labanyasaha21@gmail.com**
-- 📫 How to reach me **labanyasaha91@gmail.com**
+  
 
 - https://lightoj.com/user/21201059
 - https://toph.co/u/user.5203
