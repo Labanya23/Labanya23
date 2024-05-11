@@ -4,7 +4,7 @@
 <h2 align="center">Learn to try new thing.Still try to develop MYSELF;I have dream to become a SOFTWARE ENGINEER</h2>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
 <h1 align="left"> I LOVE TO PROGRAMMING.STILL PACTICING IT</h1>
-<h4 align="left">Start learning C,C++,PYTHON,JAVA,ML,WEB,DS,ALGORITHM;;But mainly focus on problem solving;C++ AND PYTHON</h4>
+<h4 align="left">Problem Solver</h4>
 <h4 align="left">Believe yourself..Doing hard work..How much you can.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=labanya23&label=Profile%20views&color=0e75b6&style=flat" alt="labanya23" /> </p>
@@ -25,9 +25,13 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.codechef.com/users/labanya23" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="labanya23" height="30" width="40" /></a>
+  <!--
 <a href="https://codeforces.com/profile/labanya22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="labanya22" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/Shuvra25"target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="shuvra25" height="30" width="40" /></a> 
+  -->
+<a href="https://codeforces.com/profile/Labanya2001"target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Labanya2001" height="30" width="40" /></a> 
+  <!--
   <a href="https://www.codechef.com/users/labanyasaha91" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="labanyasahah91" height="30" width="40" /></a>
+  -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
