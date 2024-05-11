@@ -9,7 +9,8 @@
 <h4 align="left">I am studying Computer Science and Engineering (CSE) at the University of Asia Pacific. I am interested in problem-solving and want to develop my logical skills.<br> Also, nowadays I have found an interest in HTML, CSS, and Django</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=labanya23&label=Profile%20views&color=0e75b6&style=flat" alt="labanya23" /> </p>
-<h4 align="left">I have a dream to become a software engineer</h4>
+<h4 align="left">I have a dream to become a software engineer.</h4>
+<h4 align="left">I want to develop myself by following the path of my dreams.</h4>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=labanya23" alt="labanya23" /></a> </p>
 
