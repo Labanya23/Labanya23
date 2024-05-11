@@ -14,8 +14,15 @@
 <!--
 <br> I want to develop myself by following the path of my dreams.<br> I always try to learn new things, especially if it is related to the field of Computer Science and Engineering.</h4>-->
 
-
+<!--
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=labanya23" alt="labanya23" /></a> </p>
+-->
+<p align="left">
+<a href="https://github.com/absmahi01">
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=absmahi01&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=absmahi01&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 - 📫 How to reach me **labanyasaha21@gmail.com**
   
