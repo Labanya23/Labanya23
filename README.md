@@ -1,4 +1,4 @@
-[![MasterHead](https://www.mtu.edu/cs/undergraduate/software/what/images/software-engineering-banner2400.jpg)
+<!--[![MasterHead](https://www.mtu.edu/cs/undergraduate/software/what/images/software-engineering-banner2400.jpg)-->
 <h1 align="center">Hi 👋, I'm Labanya Saha</h1>
 <h3 align="center">Study at CSE University Of Asia Pacific</h3>
 <h2 align="center">Learn to try new thing.Still try to develop MYSELF;I have dream to become a SOFTWARE ENGINEER</h2>
