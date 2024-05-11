@@ -20,6 +20,10 @@
 - https://www.linkedin.com/in/labanya-saha-60642127a/
 - https://www.stopstalk.com/user/profile/labanya25
 - https://www.hackerrank.com/profile/labanyasaha21
+- https://atcoder.jp/users/labanya24
+- https://open.kattis.com/users/labanya-saha
+- https://www.stopstalk.com/user/profile/Labanya24
+- https://leetcode.com/labanyasaha21/
 -->
 
 <h3 align="left">Connect with me:</h3>
