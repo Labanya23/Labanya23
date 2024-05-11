@@ -13,14 +13,14 @@
 
 - 📫 How to reach me **labanyasaha21@gmail.com**
   
-
+<!--
 - https://lightoj.com/user/21201059
 - https://toph.co/u/user.5203
 - https://www.beecrowd.com.br/judge/en/profile/614100
 - https://www.linkedin.com/in/labanya-saha-60642127a/
 - https://www.stopstalk.com/user/profile/labanya25
 - https://www.hackerrank.com/profile/labanyasaha21
-
+-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
