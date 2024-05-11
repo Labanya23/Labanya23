@@ -17,6 +17,9 @@
 <!--
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=labanya23" alt="labanya23" /></a> </p>
 -->
+- 📫 How to reach me **labanyasaha21@gmail.com**
+
+- 🌱 I’m currently learning **Python,Html,Css,Javascript and Django.**
 <p align="left">
 <a href="https://github.com/absmahi01">
  <!-- <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=absmahi01&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>-->
@@ -26,7 +29,7 @@
 </a>
 </p>
 
-- 📫 How to reach me **labanyasaha21@gmail.com**
+
   
 <!--
 - https://lightoj.com/user/21201059
