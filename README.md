@@ -21,7 +21,7 @@
 
 - 🌱 I’m currently learning **Python,Html,Css,Javascript and Django.**
 
-- 📄 Still Updating **https://drive.google.com/file/d/1XSD1E-cr1iGW794TfSnT_nyWfPP3t8cB/view?usp=sharing**
+- 📄 Still Updating **https://github.com/Labanya23/CV.git**
 <p align="left">
 <a href="https://github.com/absmahi01">
  <!-- <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=absmahi01&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>-->
