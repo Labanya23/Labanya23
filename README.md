@@ -19,7 +19,7 @@
 -->
 - 📫 How to reach me **labanyasaha21@gmail.com**
 
-- 🌱 I’m currently learning **Python,Html,Css,Javascript and Django.**
+- 🌱 I’m currently learning **Python,Html,Css,Js,ML and Django.**
 
 - 📄 Still Updating ****
 <p align="left">
