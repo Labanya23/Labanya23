@@ -19,7 +19,10 @@
 -->
 - 📫 How to reach me **labanyasaha21@gmail.com**
 
-- 🌱 I’m currently learning **Python,Html,Css,Js,ML,DSA and Django.**
+- **Machine Learning -**![Numpy](https://img.shields.io/static/v1?&message=Numpy&color=658cf0&logo=numpy&logoColor=FFFFFF&label=)
+ ![Pandas](https://img.shields.io/static/v1?&message=Pandas&color=0a2c82&logo=pandas&logoColor=FFFFFF&label=)
+ ![Matplotlib](https://img.shields.io/static/v1?&message=Matplotlib&color=0e5fa1&logo=plotly&logoColor=FF6F00&label=)
+
 
 - 📄 Still Updating ****
 <p align="left">
