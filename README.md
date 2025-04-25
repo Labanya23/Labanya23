@@ -135,7 +135,7 @@ To become a well-rounded developer by combining strong problem-solving skills wi
 
   
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=labanya-saha&theme=dark&card_width=500&" alt="labanya23" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=labanya23&theme=dark&card_width=500&" alt="labanya23" /></p>
 
 <!--p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=labanya23&" alt="labanya23" /></p>
 
