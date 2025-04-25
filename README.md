@@ -24,7 +24,7 @@ To become a well-rounded developer by combining strong problem-solving skills wi
 
 ---
 
-<!--p align="left"> <img src="https://komarev.com/ghpvc/?username=labanya23&label=Profile%20views&color=0e75b6&style=flat" alt="labanya23" /> </p-->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=labanya23&label=Profile%20views&color=0e75b6&style=flat" alt="labanya23" /> </p>
 <!--<h4 align="left">I have a dream to become a software engineer.</h4>-->
 <!--h4 align="left">I have a dream to become a software engineer.<br>I want to develop myself by following the path of my dreams.<br> I always try to learn new things, especially if it is related to the field of Computer Science and Engineering.</h4-->
 <h4 align="left">
