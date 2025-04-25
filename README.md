@@ -39,11 +39,11 @@ To become a well-rounded developer by combining strong problem-solving skills wi
 - 📫 How to reach me **labanyasaha21@gmail.com**
 
 - **ML/AI -**
-- ![Numpy](https://img.shields.io/static/v1?&message=Numpy&color=658cf0&logo=numpy&logoColor=FFFFFF&label=)
+![Numpy](https://img.shields.io/static/v1?&message=Numpy&color=658cf0&logo=numpy&logoColor=FFFFFF&label=)
  ![Pandas](https://img.shields.io/static/v1?&message=Pandas&color=0a2c82&logo=pandas&logoColor=FFFFFF&label=)
  ![Matplotlib](https://img.shields.io/static/v1?&message=Matplotlib&color=0e5fa1&logo=plotly&logoColor=FF6F00&label=)
 - **Languages -**
-- ![Python](https://img.shields.io/static/v1?&message=Python&color=176587&logo=python&logoColor=f5f589&label=&)
+  ![Python](https://img.shields.io/static/v1?&message=Python&color=176587&logo=python&logoColor=f5f589&label=&)
 ![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
  ![Java](https://img.shields.io/static/v1?&message=Java&color=c93618&logo=Java&label=)
 ![JavaScript](https://img.shields.io/static/v1?&message=JavaScript&color=000000&logo=javascript&label=)
