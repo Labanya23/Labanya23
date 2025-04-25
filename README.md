@@ -58,14 +58,14 @@ To become a well-rounded developer by combining strong problem-solving skills wi
 ![Github](https://img.shields.io/static/v1?&message=Github&color=000000&logo=github&logoColor=FFFFFF&label=)
 
   - 📄 Still Updating ****
-<p align="left">
+<!--p align="left"
 <a href="https://github.com/absmahi01">
  <!-- <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=absmahi01&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>-->
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=labanya23&show_icons=true&locale=en&layout=compact" alt="labanya23" />
+  <!--img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=labanya23&show_icons=true&locale=en&layout=compact" alt="labanya23" />
   <!--<img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=absmahi01&layout=compact&langs_count=8&theme=algolia"/>-->
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=labanya23&show_icons=true&locale=en" alt="labanya23" />
+  <!--img height="160em" src="https://github-readme-stats.vercel.app/api?username=labanya23&show_icons=true&locale=en" alt="labanya23" />
 </a>
-</p>
+</p-->
 
 
   
@@ -95,6 +95,13 @@ To become a well-rounded developer by combining strong problem-solving skills wi
   -->
   <a href="https://leetcode.com/labanyasaha21/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="labanyasaha21" height="30" width="40" /></a>
 </p>
+<p align="center">
+  <a href="https://github.com/absmahi01">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=absmahi01&show_icons=true&theme=tokyonight&count_private=true" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=absmahi01&layout=compact&theme=tokyonight" />
+  </a>
+</p>
+
 
 <!--h4 align="left">Languages and Tools:</h4-->
 <!--
