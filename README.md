@@ -22,7 +22,14 @@ To become a well-rounded developer by combining strong problem-solving skills wi
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=labanya23&label=Profile%20views&color=0e75b6&style=flat" alt="labanya23" /> </p>
 <!--<h4 align="left">I have a dream to become a software engineer.</h4>-->
-<h4 align="left">I have a dream to become a software engineer.<br>I want to develop myself by following the path of my dreams.<br> I always try to learn new things, especially if it is related to the field of Computer Science and Engineering.</h4>
+<!--h4 align="left">I have a dream to become a software engineer.<br>I want to develop myself by following the path of my dreams.<br> I always try to learn new things, especially if it is related to the field of Computer Science and Engineering.</h4-->
+<h4 align="left">
+  I aspire to become a <strong>software engineer</strong>, and I'm committed to growing every day to make that dream a reality.<br>
+  I'm passionate about learning new things — especially when they relate to <strong>Computer Science and Engineering</strong>.<br>
+  Recently, I've developed a strong interest in <strong>Machine Learning</strong>, and I'm excited to explore how intelligent systems can solve real-world problems.<br>
+  I believe in consistent improvement and always try to stay curious, motivated, and open to new challenges.
+</h4>
+
 <!--
 <br> I want to develop myself by following the path of my dreams.<br> I always try to learn new things, especially if it is related to the field of Computer Science and Engineering.</h4>-->
 
@@ -31,9 +38,18 @@ To become a well-rounded developer by combining strong problem-solving skills wi
 -->
 - 📫 How to reach me **labanyasaha21@gmail.com**
 
-- **Machine Learning -**![Numpy](https://img.shields.io/static/v1?&message=Numpy&color=658cf0&logo=numpy&logoColor=FFFFFF&label=)
+- **ML/AI -**![Numpy](https://img.shields.io/static/v1?&message=Numpy&color=658cf0&logo=numpy&logoColor=FFFFFF&label=)
  ![Pandas](https://img.shields.io/static/v1?&message=Pandas&color=0a2c82&logo=pandas&logoColor=FFFFFF&label=)
  ![Matplotlib](https://img.shields.io/static/v1?&message=Matplotlib&color=0e5fa1&logo=plotly&logoColor=FF6F00&label=)
+- **Languages -**![Python](https://img.shields.io/static/v1?&message=Python&color=176587&logo=python&logoColor=f5f589&label=&)
+![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+ ![Java](https://img.shields.io/static/v1?&message=Java&color=c93618&logo=Java&label=)
+![JavaScript](https://img.shields.io/static/v1?&message=JavaScript&color=000000&logo=javascript&label=)
+- **Backend -**
+![Django](https://img.shields.io/static/v1?&message=Django&color=2c4a37&logo=Django&label=)
+![MySQL](https://img.shields.io/static/v1?&message=MySQL&color=5699cc&logo=MySQL&logoColor=FFFFFF&label=)
+
+
 
 
 - 📄 Still Updating ****
@@ -89,10 +105,6 @@ To become a well-rounded developer by combining strong problem-solving skills wi
 
 -->
 
-- **Languages -**![Python](https://img.shields.io/static/v1?&message=Python&color=176587&logo=python&logoColor=f5f589&label=&)
-![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
- ![Java](https://img.shields.io/static/v1?&message=Java&color=c93618&logo=Java&label=)
-![JavaScript](https://img.shields.io/static/v1?&message=JavaScript&color=000000&logo=javascript&label=)
 
 
   
