@@ -126,7 +126,7 @@ To become a well-rounded developer by combining strong problem-solving skills wi
   </a>
 </p>
 
-## 🚀 My Projects
+## 🚀 My Acadamic Projects
 ### 🧪 [**MEDICINE-CHAI**](https://github.com/Labanya23/MEDICINE-CHAI)  
   💊 A full-stack **Django web application** designed to manage and display medical product information.  
   Built with **HTML**, **CSS**, **JavaScript**, and **Python**, this project features:
