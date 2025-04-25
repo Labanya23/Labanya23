@@ -82,7 +82,7 @@ To become a well-rounded developer by combining strong problem-solving skills wi
 - https://leetcode.com/labanyasaha21/
 -->
 
-<h3 align="left">Connect with me:</h3>
+<!--h3 align="left">Connect with me:</h3>
 <p align="left">
  <a href="https://www.linkedin.com/in/labanya-saha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="labanya-saha" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/labanya23" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="labanya23" height="30" width="40" /></a>
@@ -93,8 +93,18 @@ To become a well-rounded developer by combining strong problem-solving skills wi
   <!--
   <a href="https://www.codechef.com/users/labanyasaha91" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="labanyasahah91" height="30" width="40" /></a>
   -->
-  <a href="https://leetcode.com/labanyasaha21/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="labanyasaha21" height="30" width="40" /></a>
+  <!--a href="https://leetcode.com/labanyasaha21/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="labanyasaha21" height="30" width="40" /></a>
+</p-->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+ <a href="https://www.linkedin.com/in/labanya-saha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="labanya-saha" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/labanya23" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="labanya23" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/Labanya2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Labanya2001" height="30" width="40" /></a> 
+<a href="https://leetcode.com/labanyasaha21/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="labanyasaha21" height="30" width="40" /></a>
+<!-- Add a new profile link here -->
+<a href="https://github.com/labanyasaha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="labanyasaha" height="30" width="40" /></a>
 </p>
+
 <p align="center">
   <a href="https://github.com/absmahi01">
     <img width="48%" src="https://github-readme-stats.vercel.app/api?username=absmahi01&show_icons=true&theme=tokyonight&count_private=true" />
