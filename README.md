@@ -126,6 +126,15 @@ To become a well-rounded developer by combining strong problem-solving skills wi
   </a>
 </p>
 
+- [**MEDICINE-CHAI**](https://github.com/Labanya23/MEDICINE-CHAI)  
+  💊 A full-stack **Django web application** designed to manage and display medical product information.  
+  Built with **HTML**, **CSS**, **JavaScript**, and **Python**, this project features:
+  - User-friendly interface for browsing and searching medicines  
+  - Admin dashboard for managing inventory and categories  
+  - Django models, templates, and views for dynamic content  
+  
+
+
 
 <p align="center">
   <a href="https://github.com/labanya23">
