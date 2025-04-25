@@ -141,6 +141,15 @@ To become a well-rounded developer by combining strong problem-solving skills wi
 - Deposit and withdraw money  
 - View transaction history  
 - Uses object-oriented programming principles
+### 🗃️ [2-2-Database-project](https://github.com/Labanya23/2-2-Database-project)
+💊 A **MySQL-based medicine shop database project** designed to manage medicine records efficiently.  
+🔧 **Built With:** MySQL, ERD, SQL Queries  
+✨ **Features:**
+- Structured database for storing medicine and customer information  
+- CRUD operations using SQL  
+- ER diagram, relational schema, and normalized tables  
+- Querying for reports and analysis
+
 
   
 
