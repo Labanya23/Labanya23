@@ -38,21 +38,26 @@ To become a well-rounded developer by combining strong problem-solving skills wi
 -->
 - 📫 How to reach me **labanyasaha21@gmail.com**
 
-- **ML/AI -**![Numpy](https://img.shields.io/static/v1?&message=Numpy&color=658cf0&logo=numpy&logoColor=FFFFFF&label=)
+- **ML/AI -**
+- ![Numpy](https://img.shields.io/static/v1?&message=Numpy&color=658cf0&logo=numpy&logoColor=FFFFFF&label=)
  ![Pandas](https://img.shields.io/static/v1?&message=Pandas&color=0a2c82&logo=pandas&logoColor=FFFFFF&label=)
  ![Matplotlib](https://img.shields.io/static/v1?&message=Matplotlib&color=0e5fa1&logo=plotly&logoColor=FF6F00&label=)
-- **Languages -**![Python](https://img.shields.io/static/v1?&message=Python&color=176587&logo=python&logoColor=f5f589&label=&)
+- **Languages -**
+- ![Python](https://img.shields.io/static/v1?&message=Python&color=176587&logo=python&logoColor=f5f589&label=&)
 ![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
  ![Java](https://img.shields.io/static/v1?&message=Java&color=c93618&logo=Java&label=)
 ![JavaScript](https://img.shields.io/static/v1?&message=JavaScript&color=000000&logo=javascript&label=)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+ ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![x86 Assembly](https://img.shields.io/badge/x86%20Assembly-000000?style=flat&logo=assemblyscript&logoColor=white)
 - **Backend -**
 ![Django](https://img.shields.io/static/v1?&message=Django&color=2c4a37&logo=Django&label=)
 ![MySQL](https://img.shields.io/static/v1?&message=MySQL&color=5699cc&logo=MySQL&logoColor=FFFFFF&label=)
+- **Tools -**
+![Git](https://img.shields.io/static/v1?&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
+![Github](https://img.shields.io/static/v1?&message=Github&color=000000&logo=github&logoColor=FFFFFF&label=)
 
-
-
-
-- 📄 Still Updating ****
+  - 📄 Still Updating ****
 <p align="left">
 <a href="https://github.com/absmahi01">
  <!-- <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=absmahi01&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>-->
