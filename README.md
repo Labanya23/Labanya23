@@ -6,7 +6,19 @@
 <!--<h1 align="left"> I LOVE TO PROGRAMMING.STILL PACTICING IT</h1>
 <h4 align="left">Problem Solver</h4>
 -->
-<h4 align="left">I am studying Computer Science and Engineering (CSE) at the University of Asia Pacific. I am interested in problem-solving and want to develop my logical skills.<br> Also, nowadays I have found an interest in HTML, CSS,Django,Machine Learning,DSA,JS</h4>
+<!--h4 align="left">I am studying Computer Science and Engineering (CSE) at the University of Asia Pacific. I am interested in problem-solving and want to develop my logical skills.<br> Also, nowadays I have found an interest in HTML, CSS,Django,Machine Learning,DSA,JS</h4-->
+I'm a Computer Science and Engineering (CSE) student at the **University of Asia Pacific**, passionate about building efficient systems and solving real-world problems through code.
+
+### 🧠 What I'm Into
+- 🚀 **Problem Solving**: Continuously sharpening my logical thinking and algorithmic skills.
+- 🌐 **Web Development**: Exploring **HTML**, **CSS**, **JavaScript**, and **Django** to create responsive and dynamic web applications.
+- 🤖 **Machine Learning**: Learning how data and models can solve complex problems.
+- 📚 **DSA**: Practicing Data Structures and Algorithms to crack coding challenges and interviews.
+
+### 🎯 Goal
+To become a well-rounded developer by combining strong problem-solving skills with hands-on experience in modern tech stacks.
+
+---
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=labanya23&label=Profile%20views&color=0e75b6&style=flat" alt="labanya23" /> </p>
 <!--<h4 align="left">I have a dream to become a software engineer.</h4>-->
