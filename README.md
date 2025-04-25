@@ -132,7 +132,16 @@ To become a well-rounded developer by combining strong problem-solving skills wi
   Built with **HTML**, **CSS**, **JavaScript**, and **Python**, this project features:
   - User-friendly interface for browsing and searching medicines  
   - Admin dashboard for managing inventory and categories  
-  - Django models, templates, and views for dynamic content  
+  - Django models, templates, and views for dynamic content
+### 💳 [2-1-Banking-Project](https://github.com/Labanya23/2-1-Banking-Project)
+🏦 A **Java-based console application** that simulates basic banking operations.  
+🔧 **Built With:** Java (OOP, File I/O, CLI)  
+✨ **Features:**
+- Create, view, and delete accounts  
+- Deposit and withdraw money  
+- View transaction history  
+- Uses object-oriented programming principles
+
   
 
 
