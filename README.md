@@ -149,6 +149,23 @@ To become a well-rounded developer by combining strong problem-solving skills wi
 - CRUD operations using SQL  
 - ER diagram, relational schema, and normalized tables  
 - Querying for reports and analysis
+# 🤝 Helping and Connect People
+
+💡 A Django-based web application designed to help people connect for **social support, volunteering**, and **community-driven help**.  
+This project was developed as part of the **CSE 410 (Software Development)** academic group project.
+
+## 🔧 Built With
+- Django (Python)
+- HTML, CSS, JavaScript
+- SQLite (default Django DB)
+- Bootstrap (optional if used)
+
+## ✨ Features
+- User authentication (sign up, login, logout)
+- Post requests for help and volunteer support
+- Browse and respond to help requests
+- Community-focused interaction system
+- Admin panel for managing users and posts
 
 
   
