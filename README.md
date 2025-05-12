@@ -127,7 +127,7 @@ To become a well-rounded developer by combining strong problem-solving skills wi
 </p>
 
 ## 🚀 My Acadamic Projects
-### 🧪 [**MEDICINE-CHAI**](https://github.com/Labanya23/MEDICINE-CHAI)  
+### 🧪3-1 [**MEDICINE-CHAI**](https://github.com/Labanya23/MEDICINE-CHAI)  
   💊 A full-stack **Django web application** designed to manage and display medical product information.  
   Built with **HTML**, **CSS**, **JavaScript**, and **Python**, this project features:
   - User-friendly interface for browsing and searching medicines  
@@ -149,23 +149,14 @@ To become a well-rounded developer by combining strong problem-solving skills wi
 - CRUD operations using SQL  
 - ER diagram, relational schema, and normalized tables  
 - Querying for reports and analysis
-# 🤝 Helping and Connect People
-
-💡 A Django-based web application designed to help people connect for **social support, volunteering**, and **community-driven help**.  
-This project was developed as part of the **CSE 410 (Software Development)** academic group project.
-
-## 🔧 Built With
-- Django (Python)
-- HTML, CSS, JavaScript
-- SQLite (default Django DB)
-- Bootstrap (optional if used)
-
-## ✨ Features
-- User authentication (sign up, login, logout)
-- Post requests for help and volunteer support
-- Browse and respond to help requests
-- Community-focused interaction system
-- Admin panel for managing users and posts
+### 🤝4-1 [Helping-and-Connect-People](https://github.com/Labanya23/Helping-and-Connect-People)  
+🫂 A **Django-based web application** developed for the **CSE 410 Software Development** academic group project.  
+🔧 **Built With:** Django, HTML, CSS, JavaScript  
+✨ **Features:**
+- User authentication and profile management  
+- Post and respond to help/volunteer requests  
+- Admin panel for user and request moderation  
+- A platform to encourage community support and connection
 
 
   
