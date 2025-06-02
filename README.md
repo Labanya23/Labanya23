@@ -11,7 +11,7 @@
 <h4 align="left">Problem Solver</h4>
 -->
 <!--h4 align="left">I am studying Computer Science and Engineering (CSE) at the University of Asia Pacific. I am interested in problem-solving and want to develop my logical skills.<br> Also, nowadays I have found an interest in HTML, CSS,Django,Machine Learning,DSA,JS</h4-->
-I'm a Computer Science and Engineering (CSE) student at the **University of Asia Pacific**, passionate about building efficient systems and solving real-world problems through code.
+I'm a Computer Science and Engineering (CSE) student at the University of Asia Pacific, passionate about building efficient systems and solving real-world problems through code.
 
 ### 🧠 What I'm Into
 - 🚀 **Problem Solving**: Continuously sharpening my logical thinking and algorithmic skills.
@@ -29,7 +29,7 @@ To become a well-rounded developer by combining strong problem-solving skills wi
 <!--h4 align="left">I have a dream to become a software engineer.<br>I want to develop myself by following the path of my dreams.<br> I always try to learn new things, especially if it is related to the field of Computer Science and Engineering.</h4-->
 <h4 align="left">
   I aspire to become a <strong>software engineer</strong>, and I'm committed to growing every day to make that dream a reality.<br>
-  I'm passionate about learning new things — especially when they relate to <strong>Computer Science and Engineering</strong>.<br>
+  I'm passionate about learning new things especially when they relate to <strong>Computer Science and Engineering</strong>.<br>
   Recently, I've developed a strong interest in <strong>Machine Learning</strong>, and I'm excited to explore how intelligent systems can solve real-world problems.<br>
   I believe in consistent improvement and always try to stay curious, motivated, and open to new challenges.
 </h4>
