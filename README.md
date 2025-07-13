@@ -107,6 +107,9 @@ To become a well-rounded developer by combining strong problem-solving skills wi
 <a href="https://leetcode.com/labanyasaha21/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="labanyasaha21" height="30" width="40" /></a>
 
 </p-->
+- **Problem Solving Beecrowd Profile -**
+- [![Beecrowd](https://img.shields.io/badge/Beecrowd-Profile-blue)](https://judge.beecrowd.com/en/profile/606158)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/labanya-saha/" target="blank">
@@ -132,8 +135,8 @@ To become a well-rounded developer by combining strong problem-solving skills wi
 
 
 </p>
-###🔧 Another Problem Solving Profiles
-[![Beecrowd](https://img.shields.io/badge/Beecrowd-Profile-blue)](https://judge.beecrowd.com/en/profile/606158)
+
+
 
 ## 🚀 My Acadamic Projects
 ### 🧪3-1 [**MEDICINE-CHAI**](https://github.com/Labanya23/MEDICINE-CHAI)  
