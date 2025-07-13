@@ -127,11 +127,13 @@ To become a well-rounded developer by combining strong problem-solving skills wi
   <!--a href="https://judge.beecrowd.com/en/profile/606158" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/beecrowd/beecrowd.svg" alt="Beecrowd - Labanya Saha" height="30" width="40" />
 </a-->
-[![Beecrowd](https://img.shields.io/badge/Beecrowd-Profile-blue)](https://judge.beecrowd.com/en/profile/606158)
+
 
 
 
 </p>
+###🔧 Another Problem Solving Profiles
+[![Beecrowd](https://img.shields.io/badge/Beecrowd-Profile-blue)](https://judge.beecrowd.com/en/profile/606158)
 
 ## 🚀 My Acadamic Projects
 ### 🧪3-1 [**MEDICINE-CHAI**](https://github.com/Labanya23/MEDICINE-CHAI)  
