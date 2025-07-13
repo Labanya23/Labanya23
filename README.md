@@ -124,6 +124,10 @@ To become a well-rounded developer by combining strong problem-solving skills wi
   <a href="https://leetcode.com/labanyasaha21/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="labanyasaha21" height="30" width="40" />
   </a>
+  <a href="https://judge.beecrowd.com/en/profile/606158" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/beecrowd/beecrowd.svg" alt="Beecrowd - Labanya Saha" height="30" width="40" />
+</a>
+
 </p>
 
 ## 🚀 My Acadamic Projects
