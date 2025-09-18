@@ -4,7 +4,7 @@
 <!--<h2 align="center">Learn to try new thing.Still try to develop MYSELF;I have dream to become a SOFTWARE ENGINEER</h2>-->
 <h1 align="center">Hey there 👋, I'm Labanya Saha</h1>
 <h3 align="center">A Problem-Solving Enthusiast 🧠💡</h3>
-<p align="center">I live and breathe challenges, always looking for the next puzzle to solve and the best solutions to create. 🚀</p>
+<!--p align="center">I live and breathe challenges, always looking for the next puzzle to solve and the best solutions to create. 🚀</p-->
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
 <!--<h1 align="left"> I LOVE TO PROGRAMMING.STILL PACTICING IT</h1>
