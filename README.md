@@ -107,7 +107,6 @@ To become a well-rounded developer by combining strong problem-solving skills wi
 <a href="https://leetcode.com/labanyasaha21/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="labanyasaha21" height="30" width="40" /></a>
 
 </p-->
-- [![Beecrowd](https://img.shields.io/badge/Beecrowd-Profile-blue)](https://judge.beecrowd.com/en/profile/606158)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -140,37 +139,6 @@ To become a well-rounded developer by combining strong problem-solving skills wi
 
 
 
-## 🚀 My Acadamic Projects
-### 🧪3-1 [**MEDICINE-CHAI**](https://github.com/Labanya23/MEDICINE-CHAI)  
-  💊 A full-stack **Django web application** designed to manage and display medical product information.  
-  Built with **HTML**, **CSS**, **JavaScript**, and **Python**, this project features:
-  - User-friendly interface for browsing and searching medicines  
-  - Admin dashboard for managing inventory and categories  
-  - Django models, templates, and views for dynamic content
-### 💳 [2-1-Banking-Project](https://github.com/Labanya23/2-1-Banking-Project)
-🏦 A **Java-based console application** that simulates basic banking operations.  
-🔧 **Built With:** Java (OOP, File I/O, CLI)  
-✨ **Features:**
-- Create, view, and delete accounts  
-- Deposit and withdraw money  
-- View transaction history  
-- Uses object-oriented programming principles
-### 🗃️ [2-2-Database-project](https://github.com/Labanya23/2-2-Database-project)
-💊 A **MySQL-based medicine shop database project** designed to manage medicine records efficiently.  
-🔧 **Built With:** MySQL, ERD, SQL Queries  
-✨ **Features:**
-- Structured database for storing medicine and customer information  
-- CRUD operations using SQL  
-- ER diagram, relational schema, and normalized tables  
-- Querying for reports and analysis
-### 🤝4-1 [Helping-and-Connect-People](https://github.com/Labanya23/Helping-and-Connect-People)  
-🫂 A **Django-based web application** developed for the **CSE 410 Software Development** academic group project.  
-🔧 **Built With:** Django, HTML, CSS, JavaScript  
-✨ **Features:**
-- User authentication and profile management  
-- Post and respond to help/volunteer requests  
-- Admin panel for user and request moderation  
-- A platform to encourage community support and connection
 
 
   
