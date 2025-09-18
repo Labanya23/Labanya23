@@ -182,7 +182,7 @@ To become a well-rounded developer by combining strong problem-solving skills wi
     <!--img width="48%" src="https://github-readme-stats.vercel.app/api?username=labanya23&show_icons=true&theme=tokyonight&count_private=true" />
     <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=labanya23&layout=compact&theme=tokyonight" /-->
     <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=labanya23&layout=compact&theme=tokyonight" />
-    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=labanya23&theme=tokyonight&hide_border=false" />
+    <!--img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=labanya23&theme=tokyonight&hide_border=false" /-->
 
   
   </a>
