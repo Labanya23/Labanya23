@@ -61,7 +61,7 @@ To become a well-rounded developer by combining strong problem-solving skills wi
 ![Git](https://img.shields.io/static/v1?&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
 ![Github](https://img.shields.io/static/v1?&message=Github&color=000000&logo=github&logoColor=FFFFFF&label=)
 
-- [![CV](https://img.shields.io/badge/View%20CV-PDF-blue)](https://github.com/Labanya23/labanya-saha-portfolio.git)
+
 <!--p align="left"
 <a href="https://github.com/absmahi01">
  <!-- <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=absmahi01&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>-->
