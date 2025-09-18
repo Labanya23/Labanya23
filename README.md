@@ -179,7 +179,7 @@ To become a well-rounded developer by combining strong problem-solving skills wi
 
 <p align="center">
   <a href="https://github.com/labanya23">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=labanya23&show_icons=true&theme=tokyonight&count_private=true" />
+    <!--img width="48%" src="https://github-readme-stats.vercel.app/api?username=labanya23&show_icons=true&theme=tokyonight&count_private=true" /-->
     <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=labanya23&layout=compact&theme=tokyonight" />
   </a>
 </p>
