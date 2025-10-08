@@ -125,6 +125,10 @@ To become a well-rounded developer by combining strong problem-solving skills wi
   <a href="https://leetcode.com/labanyasaha21/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="labanyasaha21" height="30" width="40" />
   </a>
+  <a href="https://www.hackerrank.com/labanyasaha21" target="_blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hackerrank.svg" alt="labanyasaha21" height="30" width="40" />
+</a>
+
   <a href="https://www.kaggle.com/labanyasaha" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" alt="labanyasaha" height="30" width="40" />
   </a>
