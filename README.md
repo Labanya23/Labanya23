@@ -22,8 +22,8 @@ I am completing my undergraduate degree in  Computer Science and Engineering (CS
 * 📚 **DSA**: Practicing Data Structures and Algorithms to strengthen coding, problem-solving, and interview skills.
 
 
-### 🎯 Goal
-To become a well-rounded developer by combining strong problem-solving skills with hands-on experience in modern tech stacks.
+//### 🎯 Goal
+//To become a well-rounded developer by combining strong problem-solving skills with hands-on experience in modern tech stacks.
 
 ---
 
