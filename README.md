@@ -40,7 +40,7 @@ To become a well-rounded developer by combining strong problem-solving skills wi
 <!--
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=labanya23" alt="labanya23" /></a> </p>
 -->
-- 📫 How to reach me **labanyasaha21@gmail.com**
+- 📫 How to reach me **labanyasaha91@gmail.com**
 
 ### 💻 Languages
 ![Python](https://img.shields.io/static/v1?&message=Python&color=176587&logo=python&logoColor=f5f589&label=)
