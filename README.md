@@ -14,10 +14,13 @@
 I am completing my undergraduate degree in  Computer Science and Engineering (CSE)  at the University of Asia Pacific, passionate about building efficient systems and solving real-world problems through code.
 
 ### 🧠 What I'm Into
-- 🚀 **Problem Solving**: Continuously sharpening my logical thinking and algorithmic skills.
-- 🌐 **Web Development**: Exploring **HTML**, **CSS**, **JavaScript**, and **Django** to create responsive and dynamic web applications.
-- 🤖 **Machine Learning**: Learning how data and models can solve complex problems.
-- 📚 **DSA**: Practicing Data Structures and Algorithms to crack coding challenges and interviews.
+
+* 🚀 **Problem Solving**: Continuously sharpening my logical thinking and algorithmic skills.
+* 🌐 **Web Development**: Exploring **HTML**, **CSS**, **JavaScript**, **React**, and **Django** to build responsive, scalable, and dynamic web applications.
+* 🤖 **AI & Machine Learning**: Exploring **Machine Learning**, **NLP**, **LLMs**, **Generative AI**, and **Computer Vision** with **PyTorch** and **TensorFlow**.
+* 🧪 **Software Quality Assurance**: Learning manual and automated testing practices, including **functional testing**, **API testing**, and automation with **Selenium**.
+* 📚 **DSA**: Practicing Data Structures and Algorithms to strengthen coding, problem-solving, and interview skills.
+
 
 ### 🎯 Goal
 To become a well-rounded developer by combining strong problem-solving skills with hands-on experience in modern tech stacks.
@@ -27,12 +30,12 @@ To become a well-rounded developer by combining strong problem-solving skills wi
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=labanya23&label=Profile%20views&color=0e75b6&style=flat" alt="labanya23" /> </p>
 <!--<h4 align="left">I have a dream to become a software engineer.</h4>-->
 <!--h4 align="left">I have a dream to become a software engineer.<br>I want to develop myself by following the path of my dreams.<br> I always try to learn new things, especially if it is related to the field of Computer Science and Engineering.</h4-->
-<h4 align="left">
+<!--h4 align="left">
   I aspire to become a <strong>software engineer</strong>, and I'm committed to growing every day to make that dream a reality.<br>
   I'm passionate about learning new things especially when they relate to <strong>Computer Science and Engineering</strong>.<br>
   Recently, I've developed a strong interest in <strong>Machine Learning</strong>, and I'm excited to explore how intelligent systems can solve real-world problems.<br>
   I believe in consistent improvement and always try to stay curious, motivated, and open to new challenges.
-</h4>
+</h4-->
 
 <!--
 <br> I want to develop myself by following the path of my dreams.<br> I always try to learn new things, especially if it is related to the field of Computer Science and Engineering.</h4>-->
