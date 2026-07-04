@@ -49,46 +49,65 @@ I completed my undergraduate degree in <strong>Computer Science and Engineering 
 -->
 - 📫 How to reach me **labanyasaha91@gmail.com**
 
-### 💻 Languages
+## ⚙️ Tech Stack
 
-![Python](https://img.shields.io/static/v1?\&message=Python\&color=176587\&logo=python\&logoColor=f5f589\&label=)
-![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat\&logo=c%2B%2B\&logoColor=white)
-![C#](https://img.shields.io/static/v1?\&message=CSharp\&color=68217A\&logo=csharp\&logoColor=FFFFFF\&label=)
-![Java](https://img.shields.io/static/v1?\&message=Java\&color=c93618\&logo=Java\&label=)
-![JavaScript](https://img.shields.io/static/v1?\&message=JavaScript\&color=000000\&logo=javascript\&label=)
-![SQL](https://img.shields.io/static/v1?\&message=SQL\&color=4479A1\&logo=mysql\&logoColor=FFFFFF\&label=)
+### 💻 Programming Languages
 
-### 🔬 AI / ML & Research
+![Python](https://img.shields.io/static/v1?message=Python&color=3776AB&logo=python&logoColor=FFD43B&label=)
+![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/static/v1?message=C%23&color=68217A&logo=csharp&logoColor=FFFFFF&label=)
+![Java](https://img.shields.io/static/v1?message=Java&color=ED8B00&logo=openjdk&logoColor=FFFFFF&label=)
+![JavaScript](https://img.shields.io/static/v1?message=JavaScript&color=F7DF1E&logo=javascript&logoColor=000000&label=)
+![SQL](https://img.shields.io/static/v1?message=SQL&color=4479A1&logo=mysql&logoColor=FFFFFF&label=)
 
-![Machine Learning](https://img.shields.io/static/v1?\&message=Machine%20Learning\&color=4b8bbe\&label=)
-![Deep Learning](https://img.shields.io/static/v1?\&message=Deep%20Learning\&color=6a5acd\&label=)
-![NLP](https://img.shields.io/static/v1?\&message=NLP\&color=8a2be2\&label=)
-![LLMs](https://img.shields.io/static/v1?\&message=LLMs\&color=5f9ea0\&label=)
-![Generative AI](https://img.shields.io/static/v1?\&message=Generative%20AI\&color=ff69b4\&label=)
-![Computer Vision](https://img.shields.io/static/v1?\&message=Computer%20Vision\&color=2e8b57\&label=)
-![PyTorch](https://img.shields.io/static/v1?\&message=PyTorch\&color=EE4C2C\&logo=pytorch\&logoColor=FFFFFF\&label=)
-![TensorFlow](https://img.shields.io/static/v1?\&message=TensorFlow\&color=FF6F00\&logo=tensorflow\&logoColor=FFFFFF\&label=)
+---
 
 ### 🌐 Web Development
 
-![React](https://img.shields.io/static/v1?\&message=React\&color=20232A\&logo=react\&logoColor=61DAFB\&label=)
-![Django](https://img.shields.io/static/v1?\&message=Django\&color=2c4a37\&logo=Django\&label=)
-![Flask](https://img.shields.io/static/v1?\&message=Flask\&color=000000\&logo=flask\&logoColor=FFFFFF\&label=)
-![Node.js](https://img.shields.io/static/v1?\&message=Node.js\&color=339933\&logo=node.js\&logoColor=FFFFFF\&label=)
+![Django](https://img.shields.io/static/v1?message=Django&color=092E20&logo=django&logoColor=FFFFFF&label=)
+![React](https://img.shields.io/static/v1?message=React&color=20232A&logo=react&logoColor=61DAFB&label=)
+![Flask](https://img.shields.io/static/v1?message=Flask&color=000000&logo=flask&logoColor=FFFFFF&label=)
+![Node.js](https://img.shields.io/static/v1?message=Node.js&color=339933&logo=node.js&logoColor=FFFFFF&label=)
+![HTML5](https://img.shields.io/static/v1?message=HTML5&color=E34F26&logo=html5&logoColor=FFFFFF&label=)
+![CSS3](https://img.shields.io/static/v1?message=CSS3&color=1572B6&logo=css3&logoColor=FFFFFF&label=)
 
-### 🧪 Software Testing & QA
+---
 
-![Selenium](https://img.shields.io/static/v1?\&message=Selenium\&color=43B02A\&logo=selenium\&logoColor=FFFFFF\&label=)
-![Automation Testing](https://img.shields.io/static/v1?\&message=Automation%20Testing\&color=4682B4\&label=)
-![API Testing](https://img.shields.io/static/v1?\&message=API%20Testing\&color=ff8c00\&label=)
+### 🤖 AI / Machine Learning
 
-### 🛠 Tools & Databases
+![PyTorch](https://img.shields.io/static/v1?message=PyTorch&color=EE4C2C&logo=pytorch&logoColor=FFFFFF&label=)
+![TensorFlow](https://img.shields.io/static/v1?message=TensorFlow&color=FF6F00&logo=tensorflow&logoColor=FFFFFF&label=)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-4B8BBE-blue)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-6A5ACD-purple)
+![NLP](https://img.shields.io/badge/NLP-8A2BE2-blueviolet)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-2E8B57-green)
+![LLMs](https://img.shields.io/badge/LLMs-5F9EA0-teal)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-FF69B4-pink)
 
-![Git](https://img.shields.io/static/v1?\&message=Git\&color=F05032\&logo=Git\&logoColor=FFFFFF\&label=)
-![GitHub](https://img.shields.io/static/v1?\&message=GitHub\&color=000000\&logo=github\&logoColor=FFFFFF\&label=)
-![Docker](https://img.shields.io/static/v1?\&message=Docker\&color=2496ED\&logo=docker\&logoColor=FFFFFF\&label=)
-![PostgreSQL](https://img.shields.io/static/v1?\&message=PostgreSQL\&color=336791\&logo=postgresql\&logoColor=FFFFFF\&label=)
-![MySQL](https://img.shields.io/static/v1?\&message=MySQL\&color=5699cc\&logo=MySQL\&logoColor=FFFFFF\&label=)
+---
+
+### 🧪 Software Testing
+
+![Selenium](https://img.shields.io/static/v1?message=Selenium&color=43B02A&logo=selenium&logoColor=FFFFFF&label=)
+![API Testing](https://img.shields.io/badge/API%20Testing-FF8C00-orange)
+![Automation Testing](https://img.shields.io/badge/Automation%20Testing-4682B4-blue)
+
+---
+
+### 🗄️ Databases
+
+![PostgreSQL](https://img.shields.io/static/v1?message=PostgreSQL&color=336791&logo=postgresql&logoColor=FFFFFF&label=)
+![MySQL](https://img.shields.io/static/v1?message=MySQL&color=4479A1&logo=mysql&logoColor=FFFFFF&label=)
+
+---
+
+### 🛠️ Tools
+
+![Git](https://img.shields.io/static/v1?message=Git&color=F05032&logo=git&logoColor=FFFFFF&label=)
+![GitHub](https://img.shields.io/static/v1?message=GitHub&color=181717&logo=github&logoColor=FFFFFF&label=)
+![Docker](https://img.shields.io/static/v1?message=Docker&color=2496ED&logo=docker&logoColor=FFFFFF&label=)
+
+
 
 
 <!--p align="left"
