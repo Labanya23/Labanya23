@@ -16,14 +16,19 @@ I completed my undergraduate degree in <strong>Computer Science and Engineering 
 
 ### 🧠 What I'm Into
 
-* 🚀 **Problem Solving**: Continuously sharpening my logical thinking and algorithmic skills.
-* 🌐 **Web Development**: Exploring **HTML**, **CSS**, **JavaScript**, **React**, and **Django** to build responsive, scalable, and dynamic web applications.
-* 🤖 **AI & Machine Learning**: Exploring **Machine Learning**, **NLP**, **LLMs**, **Generative AI**, and **Computer Vision** with **PyTorch** and **TensorFlow**.
-* 🧪 **Software Quality Assurance**: Learning manual and automated testing practices, including **functional testing**, **API testing**, and automation with **Selenium**.
-* 📚 **DSA**: Practicing Data Structures and Algorithms to strengthen coding, problem-solving, and interview skills.
+* 💻 **Backend Development**: Building scalable and secure web applications using **Python**, **Django**, **PostgreSQL**, and REST APIs.
 
+* 🌐 **Full-Stack Development**: Developing responsive and interactive web applications with **React**, **HTML**, **CSS**, and **JavaScript**.
 
+* 🤖 **AI & Machine Learning**: Exploring **Machine Learning**, **Deep Learning**, **Natural Language Processing (NLP)**, **Large Language Models (LLMs)**, **Generative AI**, and **Computer Vision** using **PyTorch** and **TensorFlow**.
 
+* 🔬 **Research & Innovation**: Interested in applying AI and software engineering to real-world problems through research, experimentation, and the development of practical solutions.
+
+* 🧪 **Software Quality Assurance (SQA)**: Learning manual and automated software testing, including **functional testing**, **API testing**, **test case design**, and automation with **Selenium**.
+
+* 🧩 **Problem Solving**: Passionate about algorithms and data structures, with **1000+ solved programming problems**, continuously improving analytical thinking and programming skills.
+
+* 📚 **Continuous Learning**: Always exploring new technologies, software engineering best practices, cloud computing, DevOps, and modern development frameworks.
 ---
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=labanya23&label=Profile%20views&color=0e75b6&style=flat" alt="labanya23" /> </p>
