@@ -162,6 +162,13 @@ I completed my undergraduate degree in <strong>Computer Science and Engineering 
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="labanya-saha" height="30" width="40" />
   </a>
 </p>
+<h3 align="left">Research Profiles:</h3>
+<p align="left">
+  <a href="https://scholar.google.com/citations?user=nfthwEYAAAAJ" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googlescholar.svg" alt="Google Scholar" height="30" width="40" />
+  </a>
+</p>
+
 <h3 align="left">Problem Solving Profiles:</h3>
 <p align="left">
   <a href="https://www.codechef.com/users/labanya23" target="blank">
