@@ -168,7 +168,7 @@ I completed my undergraduate degree in <strong>Computer Science and Engineering 
     <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googlescholar.svg" alt="Google Scholar" height="30" width="40" />
   </a>
 </p>
-
+<a href="https://www.researchgate.net/profile/Labanya-Saha" target="_blank"> <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/researchgate.svg" alt="ResearchGate" height="30" width="40" /> </a> </p>
 <h3 align="left">Problem Solving Profiles:</h3>
 <p align="left">
   <a href="https://www.codechef.com/users/labanya23" target="blank">
