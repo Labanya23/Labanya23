@@ -49,65 +49,72 @@ I completed my undergraduate degree in <strong>Computer Science and Engineering 
 -->
 - 📫 How to reach me **labanyasaha91@gmail.com**
 
-## ⚙️ Tech Stack
 
+## 🛠️ Tech Stack
+
+### 🤖 AI / Machine Learning
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat\&logo=pytorch\&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat\&logo=tensorflow\&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat\&logo=scikit-learn\&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat\&logo=huggingface\&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat\&logo=opencv\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat\&logo=numpy\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat\&logo=pandas\&logoColor=white)
+
+**Research Areas:** Machine Learning · Deep Learning · NLP · LLMs · Generative AI · Computer Vision · Multimodal AI
+
+---
 ### 💻 Programming Languages
 
-![Python](https://img.shields.io/static/v1?message=Python&color=3776AB&logo=python&logoColor=FFD43B&label=)
-![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/static/v1?message=C%23&color=68217A&logo=csharp&logoColor=FFFFFF&label=)
-![Java](https://img.shields.io/static/v1?message=Java&color=ED8B00&logo=openjdk&logoColor=FFFFFF&label=)
-![JavaScript](https://img.shields.io/static/v1?message=JavaScript&color=F7DF1E&logo=javascript&logoColor=000000&label=)
-![SQL](https://img.shields.io/static/v1?message=SQL&color=4479A1&logo=mysql&logoColor=FFFFFF&label=)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat\&logo=c\&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat\&logo=cplusplus\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat\&logo=openjdk\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat\&logo=typescript\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat\&logo=postgresql\&logoColor=white)
 
 ---
 
 ### 🌐 Web Development
 
-![Django](https://img.shields.io/static/v1?message=Django&color=092E20&logo=django&logoColor=FFFFFF&label=)
-![React](https://img.shields.io/static/v1?message=React&color=20232A&logo=react&logoColor=61DAFB&label=)
-![Flask](https://img.shields.io/static/v1?message=Flask&color=000000&logo=flask&logoColor=FFFFFF&label=)
-![Node.js](https://img.shields.io/static/v1?message=Node.js&color=339933&logo=node.js&logoColor=FFFFFF&label=)
-![HTML5](https://img.shields.io/static/v1?message=HTML5&color=E34F26&logo=html5&logoColor=FFFFFF&label=)
-![CSS3](https://img.shields.io/static/v1?message=CSS3&color=1572B6&logo=css3&logoColor=FFFFFF&label=)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat\&logo=django\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat\&logo=fastapi\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat\&logo=react\&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat\&logo=node.js\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat\&logo=css3\&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-005571?style=flat)
 
 ---
 
-### 🤖 AI / Machine Learning
 
-![PyTorch](https://img.shields.io/static/v1?message=PyTorch&color=EE4C2C&logo=pytorch&logoColor=FFFFFF&label=)
-![TensorFlow](https://img.shields.io/static/v1?message=TensorFlow&color=FF6F00&logo=tensorflow&logoColor=FFFFFF&label=)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-4B8BBE-blue)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-6A5ACD-purple)
-![NLP](https://img.shields.io/badge/NLP-8A2BE2-blueviolet)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-2E8B57-green)
-![LLMs](https://img.shields.io/badge/LLMs-5F9EA0-teal)
-![Generative AI](https://img.shields.io/badge/Generative%20AI-FF69B4-pink)
-
----
 
 ### 🧪 Software Testing
 
-![Selenium](https://img.shields.io/static/v1?message=Selenium&color=43B02A&logo=selenium&logoColor=FFFFFF&label=)
-![API Testing](https://img.shields.io/badge/API%20Testing-FF8C00-orange)
-![Automation Testing](https://img.shields.io/badge/Automation%20Testing-4682B4-blue)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat\&logo=selenium\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat\&logo=postman\&logoColor=white)
+
+
 
 ---
 
 ### 🗄️ Databases
 
-![PostgreSQL](https://img.shields.io/static/v1?message=PostgreSQL&color=336791&logo=postgresql&logoColor=FFFFFF&label=)
-![MySQL](https://img.shields.io/static/v1?message=MySQL&color=4479A1&logo=mysql&logoColor=FFFFFF&label=)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat\&logo=postgresql\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat\&logo=mysql\&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat\&logo=firebase\&logoColor=black)
 
 ---
 
-### 🛠️ Tools
+### 🛠️ Tools & Platforms
 
-![Git](https://img.shields.io/static/v1?message=Git&color=F05032&logo=git&logoColor=FFFFFF&label=)
-![GitHub](https://img.shields.io/static/v1?message=GitHub&color=181717&logo=github&logoColor=FFFFFF&label=)
-![Docker](https://img.shields.io/static/v1?message=Docker&color=2496ED&logo=docker&logoColor=FFFFFF&label=)
-
-
+![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat\&logo=docker\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat\&logo=linux\&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat\&logo=visual-studio-code\&logoColor=white)
 
 
 <!--p align="left"
