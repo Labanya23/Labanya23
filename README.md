@@ -16,19 +16,19 @@ I completed my undergraduate degree in <strong>Computer Science and Engineering 
 
 ### 🧠 What I'm Into
 
-* 💻 **Backend Development**: Building scalable and secure web applications using **Python**, **Django**, **PostgreSQL**, and REST APIs.
+* 🔬 **AI & Research:** Exploring Artificial Intelligence and applying computational methods to real-world problems through research, experimentation, and the development of practical solutions.
 
-* 🌐 **Full-Stack Development**: Developing responsive and interactive web applications with **React**, **HTML**, **CSS**, and **JavaScript**.
+* 🤖 **Deep Learning & Machine Learning:** Developing and experimenting with neural network models using **PyTorch, TensorFlow, and Scikit-learn**, with a focus on understanding and applying modern AI techniques.
 
-* 🤖 **AI & Machine Learning**: Exploring **Machine Learning**, **Deep Learning**, **Natural Language Processing (NLP)**, **Large Language Models (LLMs)**, **Generative AI**, and **Computer Vision** using **PyTorch** and **TensorFlow**.
+* 🗣️ **NLP & Large Language Models:** Interested in **Natural Language Processing (NLP), Large Language Models (LLMs), Generative AI, and Multimodal AI**, with a focus on developing intelligent systems.
 
-* 🔬 **Research & Innovation**: Interested in applying AI and software engineering to real-world problems through research, experimentation, and the development of practical solutions.
+* 🩺 **AI for Healthcare:** Exploring **Deep Learning and AI applications in healthcare**, including medical imaging, disease prediction, and computational approaches to infectious diseases.
 
-* 🧪 **Software Quality Assurance (SQA)**: Learning manual and automated software testing, including **functional testing**, **API testing**, **test case design**, and automation with **Selenium**.
+* 💻 **Software Engineering:** Building practical and user-friendly applications using **Python, Django, React, REST APIs, and databases**, while applying software engineering skills to research-oriented projects.
 
-* 🧩 **Problem Solving**: Passionate about algorithms and data structures, with **1000+ solved programming problems**, continuously improving analytical thinking and programming skills.
+* 🧩 **Problem Solving:** Strengthening algorithmic thinking and programming skills through **Data Structures & Algorithms** and competitive programming.
 
-* 📚 **Continuous Learning**: Always exploring new technologies, software engineering best practices, cloud computing, DevOps, and modern development frameworks.
+* 📚 **Continuous Learning & Research Development:** Continuously expanding my knowledge of **AI, Deep Learning, NLP, LLMs, and research methodologies** through academic learning, research exploration, technical projects, and hands-on experimentation, while building a strong foundation for future **MSc/PhD research**.
 ---
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=labanya23&label=Profile%20views&color=0e75b6&style=flat" alt="labanya23" /> </p>
