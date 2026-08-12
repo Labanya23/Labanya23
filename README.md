@@ -142,7 +142,7 @@ I completed my undergraduate degree in <strong>Computer Science and Engineering 
 -->
 
 <!--h3 align="left">Connect with me:</h3>
-<p align="left">
+<!--p align="left">
  <a href="https://www.linkedin.com/in/labanya-saha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="labanya-saha" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/labanya23" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="labanya23" height="30" width="40" /></a>
   <!--
@@ -163,7 +163,7 @@ I completed my undergraduate degree in <strong>Computer Science and Engineering 
 
 </p-->
 
-<h3 align="left">Connect with me:</h3>
+<!--h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/labanya-saha/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="labanya-saha" height="30" width="40" />
@@ -201,9 +201,47 @@ I completed my undergraduate degree in <strong>Computer Science and Engineering 
 
 
 
+</p-->
+
+
+### 🤝 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/labanya-saha/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 </p>
 
+### 🔬 Research Profiles
 
+<p align="left">
+  <a href="https://scholar.google.com/citations?user=nfthwEYAAAAJ" target="_blank">
+    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"/>
+  </a>
+  <a href="https://www.researchgate.net/profile/Labanya-Saha" target="_blank">
+    <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate"/>
+  </a>
+  <a href="https://www.kaggle.com/labanyasaha" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+  </a>
+</p>
+
+### 🧩 Problem Solving Profiles
+
+<p align="left">
+  <a href="https://leetcode.com/labanyasaha21/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+  </a>
+  <a href="https://codeforces.com/profile/labanya24" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
+  </a>
+  <a href="https://www.codechef.com/users/labanya23" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
+  </a>
+  <a href="https://www.hackerrank.com/labanyasaha21" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+  </a>
+</p>
 
 
 
