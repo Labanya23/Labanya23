@@ -22,7 +22,7 @@ I completed my undergraduate degree in <strong>Computer Science and Engineering 
 
 * 🤖 **Deep Learning & Machine Learning:** Developing and experimenting with neural network models using **PyTorch, TensorFlow, and Scikit-learn**, with a focus on understanding and applying modern AI techniques.
 
-* 🗣️ **NLP & Large Language Models:** Interested in **Natural Language Processing (NLP), Large Language Models (LLMs), Generative AI, and Multimodal AI**, with a focus on developing intelligent systems.
+* 🗣️ **NLP & Large Language Models:** Interested in **Natural Language Processing (NLP), Large Language Models (LLMs), Agentic AI, and Multimodal AI**, with a focus on developing intelligent systems.
 
 * 🩺 **AI for Healthcare:** Exploring **Deep Learning and AI applications in healthcare**, including medical imaging, disease prediction, and computational approaches to infectious diseases.
 
