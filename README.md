@@ -11,7 +11,9 @@
 <h4 align="left">Problem Solver</h4>
 -->
 <!--h4 align="left">I am completing my undergraduate degree in Computer Science and Engineering (CSE) from the University of Asia Pacific. I am interested in problem-solving and want to develop my logical skills.<br> Also, nowadays I have found an interest in HTML, CSS,Django,Machine Learning,DSA,JS</h4-->
-I completed my undergraduate degree in <strong>Computer Science and Engineering (CSE)</strong> at the <strong>University of Asia Pacific</strong>.
+I completed my undergraduate degree in <strong>Computer Science and Engineering (CSE)</strong> at the <strong>University of Asia Pacific</strong>strong interest in artificial intelligence,research,backend development and software engineering.
+
+ 
 
 
 ### 🧠 What I'm Into
